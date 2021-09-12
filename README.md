@@ -1,1 +1,1 @@
-# test_task_pecode
+to start, use npx wdio run ./wdio.conf.js
